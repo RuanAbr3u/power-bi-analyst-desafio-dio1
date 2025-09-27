@@ -36,7 +36,7 @@ O objetivo foi desenvolver um **dashboard interativo** baseado no conjunto de da
 ## 📷 Demonstração
 👉 Inclua aqui imagens ou GIFs do seu relatório:  
 
-![Dashboard Power BI](Dashboard_000.png)
-![Dashboard Power BI](Dashboard_001.png) 
+![Dashboard Power BI](imagens/Dashboard_000.png)
+![Dashboard Power BI](imagens/Dashboard_001.png)
 
 ---
